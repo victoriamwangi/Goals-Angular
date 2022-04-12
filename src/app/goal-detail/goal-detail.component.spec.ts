@@ -11,7 +11,7 @@ describe('GoalDetailComponent', () => {
       declarations: [ GoalDetailComponent ]
     })
     .compileComponents();
-  });
+  }); 
 
   beforeEach(() => {
     fixture = TestBed.createComponent(GoalDetailComponent);
